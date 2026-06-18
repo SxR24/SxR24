@@ -1,11 +1,9 @@
 <!-- ============ BANNER ============ -->
 <div align="center">
 
-<a href="https://github.com/SxR24">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=2DD4BF&center=true&vCenter=true&width=820&height=70&lines=Hi%2C+I'm+Sohil+%F0%9F%91%8B;Data+%26+BI+Analyst;Turning+messy+data+into+decisions;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI" alt="Typing banner" />
-</a>
+<img src="./banner.svg" alt="Sohil - Data & BI Analyst" width="820"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Data_%26_BI_Analyst-0F172A?style=for-the-badge&labelColor=0F172A&color=2DD4BF" alt="role"/>
 <img src="https://img.shields.io/badge/MSc_Bioinformatics-0F172A?style=for-the-badge&labelColor=0F172A&color=2DD4BF" alt="msc"/>
@@ -16,23 +14,13 @@
 ---
 
 <!-- ============ ABOUT ============ -->
-```python
-class Sohil:
-    def __init__(self):
-        self.role        = "Data & BI Analyst"
-        self.education   = "MSc Bioinformatics, University of Leicester"
-        self.location    = "Leicester, UK"
-        self.focus       = ["data cleaning", "EDA", "predictive modelling", "dashboards"]
-        self.open_to     = "Data Analyst / BI Analyst roles (on-site / hybrid)"
+### `~/ whoami`
 
-    def what_i_do(self):
-        return ("I take messy, real-world data and turn it into decisions "
-                "people can act on - from raw data through to a dashboard "
-                "a non-technical stakeholder can read in seconds.")
-```
+**Data & BI Analyst** turning messy, real-world data into decisions people can act on — from raw data through to a dashboard a non-technical stakeholder can read in seconds. I work across the full pipeline: cleaning and wrangling, exploratory analysis, predictive modelling, and the reporting that makes findings land.
 
-> My background in computational biology means I'm comfortable with large, noisy
-> datasets - the kind of problems where the data never arrives clean.
+MSc Bioinformatics at the University of Leicester. My background in computational biology means I'm comfortable with large, noisy datasets — the kind of problems where the data never arrives clean.
+
+📍 Leicester, UK · open to Data Analyst / BI Analyst roles (on-site or hybrid)
 
 ---
 
